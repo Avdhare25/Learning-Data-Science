@@ -1,0 +1,89 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "99cd2d22",
+   "metadata": {},
+   "source": [
+    "# Project 1\n",
+    "\n",
+    "# Student Portfolio"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "fd58bc01",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Name: Amay Trivedi\n",
+      "University: MBA University for MBA\n",
+      "Course: Master of Business Administration\n",
+      "Roll Number: 123456789\n",
+      "Year/Semister: First Year / First Semister\n",
+      "Subject Wise Percentage\n",
+      "Accountancy for Manager: 92.67%\n",
+      "Management Practices: 85.67%\n",
+      "Business for Research Method: 89.45%\n"
+     ]
+    }
+   ],
+   "source": [
+    "Name = \"Name: Amay Trivedi\"\n",
+    "NameofUniversity = \"University: MBA University for MBA\"\n",
+    "Course = \"Course: Master of Business Administration\"\n",
+    "RollNumber = \"Roll Number: 123456789\"\n",
+    "YearSemister = \"Year/Semister: First Year / First Semister\"\n",
+    "Subjectpercentage = \"Subject Wise Percentage\"\n",
+    "Subject1 = \"Accountancy for Manager: \"\n",
+    "per1 = 92.67\n",
+    "Subject2 = \"Management Practices: \"\n",
+    "per2 = 85.67\n",
+    "Subject3 = \"Business for Research Method: \"\n",
+    "per3 = 89.45\n",
+    "print (Name)\n",
+    "print (NameofUniversity)\n",
+    "print (Course)\n",
+    "print (RollNumber)\n",
+    "print (YearSemister)\n",
+    "print (Subjectpercentage)\n",
+    "print (Subject1 + str(per1) +\"%\")\n",
+    "print (Subject2 + str(per2) + \"%\")\n",
+    "print (Subject3 + str(per3) + \"%\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f3213f7d",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
